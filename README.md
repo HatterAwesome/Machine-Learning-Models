@@ -9,3 +9,9 @@
 
 # ResNet cifar10 
   1. ResNet is a highly effective convolutional neural network architecture for the CIFAR-10 image classification dataset, widely recognized for solving the vanishing gradient problem in deep learning via skip connections
+
+# K-Means 
+  1. Implements the K-Means clustering algorithm from scratch using Python and NumPy. A synthetic dataset is generated using make_blobs, and the algorithm assigns points to the nearest centroid, updates centroids iteratively, predicts cluster labels, and visualizes the final clusters and centroids. This notebook demonstrates unsupervised learning step-by-step.
+
+# SVM
+  1. Demonstrates a Support Vector Machine classifier using the Iris dataset. The notebook includes train-test splitting, model training, prediction, and evaluation with accuracy, confusion matrix, and classification report. Optional 2D visualization of predicted labels is included for easy interpretation. This notebook is designed for step-by-step understanding of supervised learning with SVMs.
